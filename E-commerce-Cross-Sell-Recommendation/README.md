@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="figures/project-header.png" width="100%" alt="Project Header">
-</div>
+![E-commerce Cross-Sell Recommendation](figures/project-header.png)
 
 # <center> **PROJECT: E-commerce Cross-Sell Recommendation System**
 
