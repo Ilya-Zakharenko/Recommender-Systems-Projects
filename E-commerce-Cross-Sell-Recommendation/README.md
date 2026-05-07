@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="figures/image-4.png" width="100%" alt="Project Header">
+  <img src="figures/project-header.png" width="100%" alt="Project Header">
 </div>
 
 # <center> **PROJECT: E-commerce Cross-Sell Recommendation System**
