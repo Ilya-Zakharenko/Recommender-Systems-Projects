@@ -1,4 +1,4 @@
-![E-commerce Cross-Sell Recommendation](figures/project-header.png)
+![E-commerce Cross-Sell Recommendation](figures/project-header.jpg)
 
 # <center> **PROJECT: E-commerce Cross-Sell Recommendation System**
 
