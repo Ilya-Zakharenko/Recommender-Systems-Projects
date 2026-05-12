@@ -4,6 +4,12 @@ End-to-end hybrid book recommendation system combining classical methods with a 
 
 ---
 
+<div align="center">
+  <img src="images/QEL4u.jpg" width="100%" alt="Book Recommendation Service">
+</div>
+
+---
+
 ### **Project Goal**
 
 Develop a high-quality hybrid recommender that integrates traditional algorithms with neural networks to improve personalization and ranking metrics.
@@ -70,6 +76,12 @@ Book ratings dataset with user-book interactions and book metadata (titles, tags
 - `models/` — saved models
 - `figures/` — visualizations and metric plots
 - `requirements.txt`
+
+---
+
+### **Conclusion**
+
+This project showcases a complete development cycle of a modern recommender system — from classical baselines to a hybrid neural solution. The integration of the Wide & Deep model demonstrated the potential for significant improvements in personalization quality.
 
 ---
 

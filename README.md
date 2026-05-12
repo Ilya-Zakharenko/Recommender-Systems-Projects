@@ -9,7 +9,7 @@ Collection of my projects and experiments in **Recommender Systems** — from cl
 - **[E-commerce Cross-Sell Recommendation System](E-commerce-Cross-Sell-Recommendation/)**  
   Hybrid recommender system aimed at increasing add-on sales in an online store. Combines classical methods (Popularity, Item-Based CF, SVD) with a **Wide & Deep** neural model.
 
-- **[Book Recommendation Service](Book-Recommendation-System/)**  
+- **[Book Recommendation Service](Book-Recommendation-Hybrid-System/)**  
   End-to-end hybrid recommender for books combining classical methods (Popularity, Content-based, Item-Based CF, Matrix Factorization) with a neural **Wide & Deep** model. Achieved significant improvement in ranking metrics.
 
 ---

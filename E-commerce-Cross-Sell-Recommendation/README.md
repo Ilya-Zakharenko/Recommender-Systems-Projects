@@ -1,8 +1,12 @@
-![E-commerce Cross-Sell Recommendation](figures/project-header.jpg)
-
 # <center> **PROJECT: E-commerce Cross-Sell Recommendation System**
 
 End-to-end recommender system designed to increase **add-on sales (cross-sell)** in an online store.
+
+---
+
+<div align="center">
+  <img src="figures/project-header.jpg" width="100%" alt="E-commerce Cross-Sell Recommendation System">
+</div>
 
 ---
 
